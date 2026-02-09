@@ -1,5 +1,12 @@
 # @pencil-structural/compare
 
+[![npm version](https://badge.fury.io/js/%40pencil-structural%2Fcompare.svg)](https://www.npmjs.com/package/@pencil-structural/compare)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Languages:** [English](README.md) | [한국어](README.ko.md)
+
+---
+
 Structural comparison engine for Pencil designs and code - verifies consistency between UI designs and implementation.
 
 ## Overview
@@ -157,9 +164,13 @@ jobs:
 - Node.js >= 18.0.0
 - TypeScript >= 5.3.0 (for type checking)
 
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
-MIT
+[MIT](LICENSE)
 
 ## Repository
 
